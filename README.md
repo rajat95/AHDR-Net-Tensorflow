@@ -1,8 +1,3 @@
-
-Command to run :
-python ahdr_test.py
-
-
 # AHDR-Net-Tensorflow
 
 This repository is the tensorflow implementation for the HDR deghosting, AHDR-Net, proposed in the paper - [**Attention-guided Network for Ghost-free High Dynamic Range Imaging**](https://arxiv.org/pdf/1904.10293.pdf).
