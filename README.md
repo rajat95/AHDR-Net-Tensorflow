@@ -10,12 +10,12 @@ This repository is the tensorflow implementation for the HDR deghosting, AHDR-Ne
 
 # Requirements
 system requirements:
-Python:3.5.2
-numpy==1.16.4
-tensorboard==1.13.1
-tensorflow-estimator==1.13.0
-tensorflow-gpu==1.13.1
-opencv-python==4.1.0.25
+Python:3.5.2\
+numpy==1.16.4\
+tensorboard==1.13.1\
+tensorflow-estimator==1.13.0\
+tensorflow-gpu==1.13.1\
+opencv-python==4.1.0.25\
 
 
 ## Training
