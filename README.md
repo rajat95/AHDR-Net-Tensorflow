@@ -15,7 +15,7 @@ numpy==1.16.4\
 tensorboard==1.13.1\
 tensorflow-estimator==1.13.0\
 tensorflow-gpu==1.13.1\
-opencv-python==4.1.0.25\
+opencv-python==4.1.0.25
 
 
 ## Training
