@@ -14,7 +14,7 @@ opencv-python==4.1.0.25
 
 
 ## Training
-The training script for this model is fusion_train_256_ahdr.py.The model was trained on UCSD dataset for 50 epochs. In one epoch, for a exposure set we have generated 50 static and 50 moving cropped exposure sets. For one cropped exposure set we have created 8 augmentation and feeding the data to the network.
+The training script for this model is fusion_train_256_ahdr.py.The model was trained on UCSD dataset for 50 epochs with batch size of 8.
 
 ## Testing
 `python ahdr_test.py
